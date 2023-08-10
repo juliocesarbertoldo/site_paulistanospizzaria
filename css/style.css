@@ -22,7 +22,7 @@ html, body {
     height: 143px;
     padding: 5px;
     margin: auto;
-    background-image: linear-gradient(to bottom, transparent 50%, rgb(3, 3, 3) 1%, #ffa200);
+    background-image: linear-gradient(to bottom, transparent 50%, rgb(3, 3, 3) 1%, #e8ee99);
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
 }
@@ -42,13 +42,13 @@ html, body {
 }
 
 .cliente-nomeFantasia {
-    max-width: 300px;
+    max-width: 320px;
     margin: auto;
-    padding: 5px;
-    font-size: 22px;
+    padding: 3px;
+    font-size: 20px;
     text-align: center;
-    color: white;
-    background-color: rgb(138, 26, 26);
+    color: #ffffff;
+    background-color: #24241a;
     border: 2px solid rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.1);
