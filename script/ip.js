@@ -5,8 +5,8 @@ function carregar() {
 					return response.json();
 				})
 				.then((data) => {
-					if (data.ip == '177.8.250.214') {
-                        ip_sistema.src = 'http://192.168.1.100/mmrest/autocliente/'
+					if (data.ip == '143.137.43.12') {
+                        ip_sistema.src = 'http://127.0.0.1/mmrest/autocliente/'
                     }
 				});
 }
